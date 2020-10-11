@@ -68,3 +68,14 @@ most impactful works I've read.
   This novel pitches a precise and believable scenario of how an AI could run
   out of control. It's a startling difference from your typical Terminator
   narrative, and deeply unsettling.
+
+## Podcasts
+- [Philosophize This!](https://www.philosophizethis.org/)<br />
+  Before coming to this podcast, I had no real exposure to the field of
+  philosophy. The podcast proved a fantastic gateway drug, and its broad
+  overviews gave me enough context to navigate the reading landscape on my
+  own.
+- [Hardcore History (Dan Carlin)](https://www.dancarlin.com/hardcore-history-series/)<br />
+  Apparently everyone knew about this podcast except me. Dan Carlin gives
+  incredible renditions of history topics. As someone equally ignorant about
+  history as philosophy, this podcast was a gold mine.
