@@ -47,3 +47,24 @@ A loosely organized list of things I love and go out of my way to recommend.
   the web. It works surprisingly well.
 - [Stylus](https://github.com/openstyles/stylus/): A tool for injecting custom
   CSS. I use this to hide annoying UI elements and apply custom dark themes.
+
+## Books
+The best books are the ones which radically change your views. These are the
+most impactful works I've read.
+
+- [Permutation City (Greg Egan)](https://en.wikipedia.org/wiki/Permutation_City)<br />
+  This book helped me grapple with the meaning of life under nihilism and
+  explores some fascinating aspects of transhumanism.
+- [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)<br />
+  A dystopian novel describing in shocking detail how massive countries could
+  censor, oppress, and indefinitely subdue citizens through technology and
+  propaganda.
+- [The Phoenix Project (Gene Kim)](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434)<br />
+  A fiction book describing a dumpster fire of a software megaproject, how it
+  got there, and how a team slowly turned it into a success. It gave me
+  perspective and empathy for managers, along with ideas for improving my own
+  work.
+- [Avogadro Corp (William Hertling)](http://avogadrocorp.com/)<br />
+  This novel pitches a precise and believable scenario of how an AI could run
+  out of control. It's a startling difference from your typical Terminator
+  narrative, and deeply unsettling.
