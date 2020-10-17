@@ -48,6 +48,11 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [Stylus](https://github.com/openstyles/stylus/): A tool for injecting custom
   CSS. I use this to hide annoying UI elements and apply custom dark themes.
 
+## Websites
+- [LearnXInYMinutes](https://learnxinyminutes.com/): A set of comment
+  annotated programming language references. Very useful for jumping into
+  a new language, or remembering how to use an old one.
+
 ## Podcasts
 - [Philosophize This!](https://www.philosophizethis.org/)<br />
   Before coming to this podcast, I had no real exposure to the field of
