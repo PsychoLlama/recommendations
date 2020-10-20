@@ -11,7 +11,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [Nix](https://nixos.org/): A cross-platform package manager. All my devtools
   are installed and managed by Nix. It's phenomenally well designed.
 - [Glow](https://github.com/charmbracelet/glow): A markdown renderer built for
-  the terminal. This makes documentation much more confortable to absorb.
+  the terminal. This makes documentation much more comfortable to absorb.
 - [Ripgrep](https://github.com/BurntSushi/ripgrep): A `grep`/`ag` replacement,
   and wicked fast, too.
 - [fd](https://github.com/sharkdp/fd): A `find` replacement with a great
