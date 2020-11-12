@@ -19,7 +19,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [viu](https://github.com/atanunq/viu): Renders images in the terminal using
   colored ascii art. Especially handy when working over SSH.
 - [skim](https://github.com/lotabout/skim) or
-  [fzf](https://github.com/lotabout/skim): Fuzzy finders. Fantastic for
+  [fzf](https://github.com/junegunn/fzf): Fuzzy finders. Fantastic for
   finding files, searching notes, or sorting through massive troves of
   unstructured text.
 - [zoxide](https://github.com/ajeetdsouza/zoxide): Quick navigation around
