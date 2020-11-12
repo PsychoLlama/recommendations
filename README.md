@@ -2,17 +2,17 @@
 A loosely organized list of things I love and go out of my way to recommend.
 
 ## Terminal Tools
-- [Alacritty](https://github.com/alacritty/alacritty): I use Alacritty as my
+- [alacritty](https://github.com/alacritty/alacritty): I use Alacritty as my
   terminal emulator across MacOS and Linux. It's configured through a yaml
   file, which makes it very easy to share configs between computers (*scowls
   at iTerm*).
-- [Tmux](https://github.com/tmux/tmux): You know what this is. I'm still going
+- [tmux](https://github.com/tmux/tmux): You know what this is. I'm still going
   to recommend it.
-- [Nix](https://nixos.org/): A cross-platform package manager. All my devtools
+- [nix](https://nixos.org/): A cross-platform package manager. All my devtools
   are installed and managed by Nix. It's phenomenally well designed.
-- [Glow](https://github.com/charmbracelet/glow): A markdown renderer built for
+- [glow](https://github.com/charmbracelet/glow): A markdown renderer built for
   the terminal. This makes documentation much more comfortable to absorb.
-- [Ripgrep](https://github.com/BurntSushi/ripgrep): A `grep`/`ag` replacement,
+- [ripgrep](https://github.com/BurntSushi/ripgrep): A `grep`/`ag` replacement,
   and wicked fast, too.
 - [fd](https://github.com/sharkdp/fd): A `find` replacement with a great
   command line interface. It's significantly faster and easier to use.
@@ -27,7 +27,7 @@ A loosely organized list of things I love and go out of my way to recommend.
   remembering the exact path.
 
 ## Vim
-- [Neovim](https://github.com/neovim/neovim/): IMO vim is getting left behind
+- [neovim](https://github.com/neovim/neovim/): IMO vim is getting left behind
   in favor of Neovim. They're leading the charge for new editor features.
 - [coc.nvim](https://github.com/neoclide/coc.nvim): This provides IDE-quality
   editor features right in vim. Powered by the [LSP
