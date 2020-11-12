@@ -3,7 +3,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 
 ## Terminal Tools
 - [alacritty](https://github.com/alacritty/alacritty): I use Alacritty as my
-  terminal emulator across MacOS and Linux. It's configured through a yaml
+  terminal emulator across macOS and Linux. It's configured through a yaml
   file, which makes it very easy to share configs between computers (*scowls
   at iTerm*).
 - [tmux](https://github.com/tmux/tmux): You know what this is. I'm still going
