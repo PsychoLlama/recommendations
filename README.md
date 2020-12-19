@@ -22,6 +22,8 @@ A loosely organized list of things I love and go out of my way to recommend.
   [fzf](https://github.com/junegunn/fzf): Fuzzy finders. Fantastic for
   finding files, searching notes, or sorting through massive troves of
   unstructured text.
+- [delta](https://github.com/dandavison/delta): The fanciest git diff viewer
+  you'll ever find.
 - [zoxide](https://github.com/ajeetdsouza/zoxide): Quick navigation around
   your file system. Phenomenal for jumping between projects without
   remembering the exact path.
