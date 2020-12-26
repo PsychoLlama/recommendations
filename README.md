@@ -58,9 +58,12 @@ A loosely organized list of things I love and go out of my way to recommend.
   CSS. I use this to hide annoying UI elements and apply custom dark themes.
 
 ## Websites
-- [LearnXInYMinutes](https://learnxinyminutes.com/): A set of comment
-  annotated programming language references. Very useful for jumping into
-  a new language, or remembering how to use an old one.
+- [Learn X in Y Minutes](https://learnxinyminutes.com/): A set of comment
+  annotated programming language references. Very useful for jumping into a new
+  language, or remembering how to use an old one.
+- [Learn Vimscript the Hard
+  Way](https://learnvimscriptthehardway.stevelosh.com/): If you're serious
+  about vim, take some time to learn Vimscript. It's worth it.
 
 ## Podcasts
 - [Philosophize This!](https://www.philosophizethis.org/)<br />
