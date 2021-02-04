@@ -40,6 +40,15 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [Hardcore History (Dan Carlin)](https://www.dancarlin.com/hardcore-history-series/)<br />
   Apparently everyone knew about this podcast except me. Dan Carlin gives incredible renditions of history topics. As someone equally ignorant about history as philosophy, this podcast was a gold mine.
 
+## Android Apps
+All references are open source and available on [F-Droid](https://f-droid.org/).
+
+- [AntennaPod](https://antennapod.org/): A beautiful and feature-filled podcast client.
+- [Olauncher](https://github.com/tanujnotes/Olauncher): A minimal launcher with heavy emphasis on search.
+- [Geometric Weather](https://github.com/geometric-weather-foss/GeometricWeather): The slickest weather app on the open-source market.
+- [Aegis](https://getaegis.app/): Hands-down the best 2FA app of the 12 realms.
+- [Foxy Droid](https://github.com/kitsunyan/foxy-droid): F-Droid, but prettier.
+
 ## Books
 The best books are the ones which radically change your views. These are the most impactful works I've read.
 
