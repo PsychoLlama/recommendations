@@ -70,3 +70,7 @@ Similar to books, I'm only listing the most impactful movies, the ones that shap
 - [They Live](https://www.imdb.com/title/tt0096256/)
 - [Fight Club](https://www.imdb.com/title/tt0137523/)
 - [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
+
+---
+
+If you like this idea, make your own recommendations list and add the `my-recommendations` topic.
