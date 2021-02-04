@@ -57,9 +57,6 @@ Similar to books, I'm only listing the most impactful movies, the ones that shap
 
 - [Breaking Bad (TV Series)](https://www.imdb.com/title/tt0903747/)
 - [Mr. Robot](https://www.imdb.com/title/tt4158110/)
-- [They Live](https://www.imdb.com/title/tt0096256/)<br />
-  Explores how a society can be enslaved without even knowing it.
-- [Fight Club](https://www.imdb.com/title/tt0137523/)<br />
-  Follows the accidental spark of an uprising.
-- [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)<br />
-  Vividly describes the fragility of human lives.
+- [They Live](https://www.imdb.com/title/tt0096256/)
+- [Fight Club](https://www.imdb.com/title/tt0137523/)
+- [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
