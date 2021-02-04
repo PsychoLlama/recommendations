@@ -29,6 +29,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [uBlock Origin](https://ublockorigin.com/): Most of you already know this ad blocker. I didn't for a while. It's pretty great.
 - [Vimium](https://github.com/philc/vimium): Vim keybindings for navigating the web. It works surprisingly well.
 - [Stylus](https://github.com/openstyles/stylus/): A tool for injecting custom CSS. I use this to hide annoying UI elements and apply custom dark themes.
+- [Bitwarden](https://bitwarden.com/): Not technically just a browser extension. This password manager is open source, self-hostable, and has official clients for about every platform, including command line.
 
 ## Websites
 - [Learn X in Y Minutes](https://learnxinyminutes.com/): A set of comment annotated programming language references. Very useful for jumping into a new language, or remembering how to use an old one.
