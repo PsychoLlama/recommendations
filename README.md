@@ -25,6 +25,12 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [keep a changelog](https://keepachangelog.com/en/1.0.0/): A sensible format for organizing and maintaining changelogs.
 - [Markdown Architectural Decision Records](https://adr.github.io/madr/): Lightweight methods for organizing and collaborating on architecture decisions.
 
+## Papers
+- [Dining Cryptographers Problem](http://www.cs.utoronto.ca/~sgorbunov/publications/diningCrypto.pdf): A thought experiment describing anonymous communication.
+- [Data Laced with History](http://archagon.net/blog/2018/03/24/data-laced-with-history/): Building CRDTs over causal trees (technically a blog post).
+- [Kademlia](http://www.scs.stanford.edu/~dm/home/papers/kpos.pdf): A clever routing algorithm for volatile P2P networks traversable in `O(log(n))` time.
+- [Paxos Made Simple](http://lamport.azurewebsites.net/pubs/paxos-simple.pdf): A true classic. This paper describes distributed consensus with attractive CAP tradeoffs.
+
 ## Browser Extensions
 - [uBlock Origin](https://ublockorigin.com/): Most of you already know this ad blocker. I didn't for a while. It's pretty great.
 - [Vimium](https://github.com/philc/vimium): Vim keybindings for navigating the web. It works surprisingly well.
