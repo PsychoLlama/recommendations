@@ -22,8 +22,8 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [undotree](https://github.com/mbbill/undotree): I've never found vim's 2D edit history easy to navigate. This plugin provides a nicer graphical interface.
 
 ## Standards
-- [keep a changelog](https://keepachangelog.com/en/1.0.0/): a sensible format for organizing and maintaining changelogs.
-- [Markdown Architectural Decision Records](https://adr.github.io/madr/): lightweight methods for organizing and collaborating on architecture decisions.
+- [keep a changelog](https://keepachangelog.com/en/1.0.0/): A sensible format for organizing and maintaining changelogs.
+- [Markdown Architectural Decision Records](https://adr.github.io/madr/): Lightweight methods for organizing and collaborating on architecture decisions.
 
 ## Browser Extensions
 - [uBlock Origin](https://ublockorigin.com/): Most of you already know this ad blocker. I didn't for a while. It's pretty great.
