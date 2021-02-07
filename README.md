@@ -21,6 +21,25 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim): A convenient way of splitting things from one line into multiple statements (or reversing it).
 - [undotree](https://github.com/mbbill/undotree): I've never found vim's 2D edit history easy to navigate. This plugin provides a nicer graphical interface.
 
+## Browser Extensions
+- [uBlock Origin](https://ublockorigin.com/): Most of you already know this ad blocker. I didn't for a while. It's pretty great.
+- [Vimium](https://github.com/philc/vimium): Vim keybindings for navigating the web. It works surprisingly well.
+- [Stylus](https://github.com/openstyles/stylus/): A tool for injecting custom CSS. I use this to hide annoying UI elements and apply custom dark themes.
+- [Bitwarden](https://bitwarden.com/): Not technically just a browser extension. This password manager is open source, self-hostable, and has official clients for about every platform, including command line.
+
+## Android Apps
+All references are open source and available on [F-Droid](https://f-droid.org/).
+
+- [AntennaPod](https://antennapod.org/): A beautiful and feature-filled podcast client.
+- [Olauncher](https://github.com/tanujnotes/Olauncher): A minimal launcher with heavy emphasis on search.
+- [Geometric Weather](https://github.com/geometric-weather-foss/GeometricWeather): The slickest weather app on the open-source market.
+- [Aegis](https://getaegis.app/): Hands-down the best 2FA app of the 12 realms.
+- [Foxy Droid](https://github.com/kitsunyan/foxy-droid): F-Droid, but prettier.
+
+## Websites
+- [Learn X in Y Minutes](https://learnxinyminutes.com/): A set of comment annotated programming language references. Very useful for jumping into a new language, or remembering how to use an old one.
+- [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/): If you're serious about vim, take some time to learn Vimscript. It's worth it.
+
 ## Standards
 - [keep a changelog](https://keepachangelog.com/en/1.0.0/): A sensible format for organizing and maintaining changelogs.
 - [Markdown Architectural Decision Records](https://adr.github.io/madr/): Lightweight methods for organizing and collaborating on architecture decisions.
@@ -31,30 +50,11 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [Kademlia](http://www.scs.stanford.edu/~dm/home/papers/kpos.pdf): A clever routing algorithm for volatile P2P networks traversable in `O(log(n))` time.
 - [Paxos Made Simple](http://lamport.azurewebsites.net/pubs/paxos-simple.pdf): A true classic. This paper describes distributed consensus with attractive CAP tradeoffs.
 
-## Browser Extensions
-- [uBlock Origin](https://ublockorigin.com/): Most of you already know this ad blocker. I didn't for a while. It's pretty great.
-- [Vimium](https://github.com/philc/vimium): Vim keybindings for navigating the web. It works surprisingly well.
-- [Stylus](https://github.com/openstyles/stylus/): A tool for injecting custom CSS. I use this to hide annoying UI elements and apply custom dark themes.
-- [Bitwarden](https://bitwarden.com/): Not technically just a browser extension. This password manager is open source, self-hostable, and has official clients for about every platform, including command line.
-
-## Websites
-- [Learn X in Y Minutes](https://learnxinyminutes.com/): A set of comment annotated programming language references. Very useful for jumping into a new language, or remembering how to use an old one.
-- [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/): If you're serious about vim, take some time to learn Vimscript. It's worth it.
-
 ## Podcasts
 - [Philosophize This!](https://www.philosophizethis.org/)<br />
   Before coming to this podcast, I had no real exposure to the field of philosophy. The podcast proved a fantastic gateway drug, and its broad overviews gave me enough context to navigate the reading landscape on my own.
 - [Hardcore History (Dan Carlin)](https://www.dancarlin.com/hardcore-history-series/)<br />
   Apparently everyone knew about this podcast except me. Dan Carlin gives incredible renditions of history topics. As someone equally ignorant about history as philosophy, this podcast was a gold mine.
-
-## Android Apps
-All references are open source and available on [F-Droid](https://f-droid.org/).
-
-- [AntennaPod](https://antennapod.org/): A beautiful and feature-filled podcast client.
-- [Olauncher](https://github.com/tanujnotes/Olauncher): A minimal launcher with heavy emphasis on search.
-- [Geometric Weather](https://github.com/geometric-weather-foss/GeometricWeather): The slickest weather app on the open-source market.
-- [Aegis](https://getaegis.app/): Hands-down the best 2FA app of the 12 realms.
-- [Foxy Droid](https://github.com/kitsunyan/foxy-droid): F-Droid, but prettier.
 
 ## Books
 The best books are the ones which radically change your views. These are the most impactful works I've read.
