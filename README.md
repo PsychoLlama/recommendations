@@ -34,7 +34,6 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Olauncher](https://github.com/tanujnotes/Olauncher): A minimal launcher with heavy emphasis on search.
 - [Geometric Weather](https://github.com/geometric-weather-foss/GeometricWeather): The slickest weather app on the open-source market.
 - [Aegis](https://getaegis.app/): Hands-down the best 2FA app of the 12 realms.
-- [Foxy Droid](https://github.com/kitsunyan/foxy-droid): F-Droid, but prettier.
 
 ## Websites
 - [Learn X in Y Minutes](https://learnxinyminutes.com/): A set of comment annotated programming language references. Very useful for jumping into a new language, or remembering how to use an old one.
