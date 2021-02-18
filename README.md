@@ -13,6 +13,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [skim](https://github.com/lotabout/skim) or [fzf](https://github.com/junegunn/fzf): Fuzzy finders. Fantastic for finding files, searching notes, or sorting through massive troves of unstructured text.
 - [delta](https://github.com/dandavison/delta): The fanciest git diff viewer you'll ever find.
 - [zoxide](https://github.com/ajeetdsouza/zoxide): Quick navigation around your file system. Phenomenal for jumping between projects without remembering the exact path.
+- [dog](https://github.com/ogham/dog/): An alternative to `dig` that's so good, you'll want to use it.
 
 ## Vim
 - [neovim](https://github.com/neovim/neovim/): IMO vim is getting left behind in favor of Neovim. They're leading the charge for new editor features.
