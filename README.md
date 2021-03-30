@@ -59,6 +59,8 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
   Before coming to this podcast, I had no real exposure to the field of philosophy. The podcast proved a fantastic gateway drug, and its broad overviews gave me enough context to navigate the reading landscape on my own.
 - [Hardcore History (Dan Carlin)](https://www.dancarlin.com/hardcore-history-series/)<br />
   Apparently everyone knew about this podcast except me. Dan Carlin gives incredible renditions of history topics. As someone equally ignorant about history as philosophy, this podcast was a gold mine.
+- [Darknet Diaries](https://darknetdiaries.com/)<br />
+  This guy interviews hackers, both ethical and unethical. The format is pretty structured and the stories are always captivating.
 
 ## Books
 The best books are the ones which radically change your views. These are the most impactful works I've read.
