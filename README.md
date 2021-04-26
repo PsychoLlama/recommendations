@@ -33,7 +33,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 - [AntennaPod](https://antennapod.org/): A beautiful and feature-filled podcast client.
 - [Olauncher](https://github.com/tanujnotes/Olauncher): A minimal launcher with heavy emphasis on search.
-- [Geometric Weather](https://github.com/geometric-weather-foss/GeometricWeather): The slickest weather app on the open-source market.
+- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather): The slickest weather app on the open-source market.
 - [Aegis](https://getaegis.app/): Hands-down the best 2FA app of the 12 realms.
 
 ## Servers
