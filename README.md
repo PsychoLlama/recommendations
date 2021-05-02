@@ -2,8 +2,7 @@
 A loosely organized list of things I love and go out of my way to recommend.
 
 ## Terminal Tools
-- [alacritty](https://github.com/alacritty/alacritty): I use Alacritty as my terminal emulator across macOS and Linux. It's configured through a yaml file, which makes it very easy to share configs between computers (*scowls
-  at iTerm*).
+- [alacritty](https://github.com/alacritty/alacritty): I use Alacritty as my terminal emulator across macOS and Linux. It's configured through a yaml file, which makes it very easy to share configs between computers (*scowls at iTerm*).
 - [tmux](https://github.com/tmux/tmux): You know what this is. I'm still going to recommend it.
 - [nix](https://nixos.org/): A cross-platform package manager. All my devtools are installed and managed by Nix. It's phenomenally well designed.
 - [glow](https://github.com/charmbracelet/glow): A markdown renderer built for the terminal. This makes documentation much more comfortable to absorb.
@@ -14,6 +13,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [delta](https://github.com/dandavison/delta): The fanciest git diff viewer you'll ever find.
 - [zoxide](https://github.com/ajeetdsouza/zoxide): Quick navigation around your file system. Phenomenal for jumping between projects without remembering the exact path.
 - [dog](https://github.com/ogham/dog/): An alternative to `dig` that's so good, you'll want to use it.
+- [w3m](https://sourceforge.net/projects/w3m/): A quick way to browse the web from a terminal.
 
 ## Vim
 - [neovim](https://github.com/neovim/neovim/): IMO vim is getting left behind in favor of Neovim. They're leading the charge for new editor features.
