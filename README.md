@@ -15,6 +15,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [dog](https://github.com/ogham/dog/): An alternative to `dig` that's so good, you'll want to use it.
 - [w3m](https://sourceforge.net/projects/w3m/): A quick way to browse the web from a terminal.
 - [ncspot](https://github.com/hrkfdn/ncspot/): An ncurses-style Spotify client.
+- [rage](https://github.com/str4d/rage): A small and simple encryption tool that works on public keys.
 
 ## Vim
 - [neovim](https://github.com/neovim/neovim/): IMO vim is getting left behind in favor of Neovim. They're leading the charge for new editor features.
