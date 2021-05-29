@@ -87,4 +87,4 @@ Similar to books, I'm only listing the most impactful movies, the ones that shap
 
 ---
 
-If you like this idea, make your own recommendations list and add the `my-recommendations` topic.
+If you like this idea, make your own recommendations repo and add the `my-recommendations` topic.
