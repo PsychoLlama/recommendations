@@ -45,6 +45,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 ## Websites
 - [Learn X in Y Minutes](https://learnxinyminutes.com/): A set of comment annotated programming language references. Very useful for jumping into a new language, or remembering how to use an old one.
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/): If you're serious about vim, take some time to learn Vimscript. It's worth it.
+- [Squoosh](https://squoosh.app/): An image compression tool right in your browser.
 
 ## Standards
 - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/): A sensible format for organizing and maintaining changelogs.
