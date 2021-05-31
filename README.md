@@ -47,8 +47,9 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/): If you're serious about vim, take some time to learn Vimscript. It's worth it.
 
 ## Standards
-- [keep a changelog](https://keepachangelog.com/en/1.0.0/): A sensible format for organizing and maintaining changelogs.
+- [Keep a Changelog](https://keepachangelog.com/en/1.0.0/): A sensible format for organizing and maintaining changelogs.
 - [Markdown Architectural Decision Records](https://adr.github.io/madr/): Lightweight methods for organizing and collaborating on architecture decisions.
+- [ActivityPub](https://www.w3.org/TR/activitypub/): An open and interoperable protocol for adding social features in your app.
 
 ## Papers
 - [Dining Cryptographers Problem](http://www.cs.utoronto.ca/~sgorbunov/publications/diningCrypto.pdf): A thought experiment describing anonymous communication.
