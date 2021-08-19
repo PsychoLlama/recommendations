@@ -60,6 +60,10 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Markdown Architectural Decision Records](https://adr.github.io/madr/): Lightweight methods for organizing and collaborating on architecture decisions.
 - [ActivityPub](https://www.w3.org/TR/activitypub/): An open and interoperable protocol for adding social features in your app.
 
+## Services
+
+- [WhiteSource Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate/): A solid competitor to Dependabot that supports auto-merging PRs when tests pass.
+
 ## Papers
 
 - [Dining Cryptographers Problem](http://www.cs.utoronto.ca/~sgorbunov/publications/diningCrypto.pdf): A thought experiment describing anonymous communication.
