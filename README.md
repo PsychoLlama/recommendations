@@ -18,6 +18,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [w3m](https://sourceforge.net/projects/w3m/): A quick way to browse the web from a terminal.
 - [ncspot](https://github.com/hrkfdn/ncspot/): An ncurses-style Spotify client.
 - [rage](https://github.com/str4d/rage): A small and simple encryption tool that works on public keys.
+- [bottom](https://github.com/ClementTsang/bottom): Quite possibly the greatest system monitor ever written.
 
 ## Vim
 
