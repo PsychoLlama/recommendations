@@ -96,6 +96,8 @@ The best books are the ones which radically change your views. These are the mos
   A fiction book describing a dumpster fire of a software megaproject, how it got there, and how a team slowly turned it into a success. It gave me perspective and empathy for managers, along with ideas for improving my own work.
 - [Avogadro Corp (William Hertling)](http://avogadrocorp.com/)<br />
   This novel pitches a precise and believable scenario of how an AI could run out of control. It's a startling difference from your typical Terminator narrative, and deeply unsettling.
+- [Divided by Infinity (Robert Wilson)](https://www.tor.com/2010/08/05/divided-by-infinity/)<br />
+  A short story that may briefly make you question your own reality.
 
 ## Movies/TV
 
