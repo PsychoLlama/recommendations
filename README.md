@@ -27,6 +27,7 @@ A loosely organized list of things I love and go out of my way to recommend.
   architecture](https://microsoft.github.io/language-server-protocol/) (no startup penalty).
 - [splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim): A convenient way of splitting things from one line into multiple statements (or reversing it).
 - [undotree](https://github.com/mbbill/undotree): I've never found vim's 2D edit history easy to navigate. This plugin provides a nicer graphical interface.
+- [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim/): A very good markdown previewer with scroll sync and tons of rendering features.
 
 ## Browser Extensions
 
