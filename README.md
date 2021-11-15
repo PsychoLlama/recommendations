@@ -59,6 +59,11 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Squoosh](https://squoosh.app/): An image compression tool right in your browser.
 - [Penpot](https://github.com/penpot/penpot): An open source Sketch/Figma competitor.
 
+## Engineering Blogs
+
+- [Dan Luu](https://danluu.com/): My personal favorite. Dan writes excellent and insightful posts about a variety of engineering topics.
+- [Matthias Endler](https://endler.dev/): Topics include how things work, low-level performance, and exploration of new tools and technologies.
+
 ## Standards
 
 - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/): A sensible format for organizing and maintaining changelogs.
