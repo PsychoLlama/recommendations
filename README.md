@@ -73,6 +73,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 ## Services
 
 - [WhiteSource Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate/): A solid competitor to Dependabot that supports auto-merging PRs when tests pass.
+- [Cloudflare Pages](https://pages.cloudflare.com/): Immutable, static site hosting integrated with serverless functions.
 
 ## Papers
 
