@@ -41,7 +41,6 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 - [Aegis](https://getaegis.app/): Hands-down the best 2FA app of the 12 realms.
 - [AntennaPod](https://antennapod.org/): A beautiful and feature-filled podcast client.
-- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather): The slickest weather app on the open-source market.
 - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit): An ad-free reddit client.
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe): YouTube client with download capabilities and a snazzy ad-free interface. And it supports PeerTube!
 - [Olauncher](https://github.com/tanujnotes/Olauncher): A minimal launcher with heavy emphasis on search.
