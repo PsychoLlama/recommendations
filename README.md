@@ -64,6 +64,14 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Dan Luu](https://danluu.com/): My personal favorite. Dan writes excellent and insightful posts about a variety of engineering topics.
 - [Matthias Endler](https://endler.dev/): Topics include how things work, low-level performance, and exploration of new tools and technologies.
 
+## Engineering Presentations
+
+- [Bret Victor: Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
+- [Pat Helland: Immutability Changes Everything](https://vimeo.com/52831373)
+- [Philip Wadler: Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
+- [Rich Hickey: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
+- [Sandi Metz: Rules](https://www.youtube.com/watch?v=npOGOmkxuio)
+
 ## Standards
 
 - [ActivityPub](https://www.w3.org/TR/activitypub/): An open and interoperable protocol for adding social features in your app.
