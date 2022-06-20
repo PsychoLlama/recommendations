@@ -44,6 +44,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit): An ad-free reddit client.
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe): YouTube client with download capabilities and a snazzy ad-free interface. And it supports PeerTube!
 - [Olauncher](https://github.com/tanujnotes/Olauncher): A minimal launcher with heavy emphasis on search.
+- [VoucherVault](https://github.com/tim-smart/vouchervault): The slickest loyalty card manager on the open-source market.
 
 ## Servers
 
