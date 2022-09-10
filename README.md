@@ -17,7 +17,6 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [skim](https://github.com/lotabout/skim) or [fzf](https://github.com/junegunn/fzf): Fuzzy finders. Fantastic for finding files, searching notes, or sorting through massive troves of unstructured text.
 - [tmux](https://github.com/tmux/tmux): You know what this is. I'm still going to recommend it.
 - [viu](https://github.com/atanunq/viu): Renders images in the terminal using colored ascii art. Especially handy when working over SSH.
-- [w3m](https://sourceforge.net/projects/w3m/): A quick way to browse the web from a terminal.
 - [zoxide](https://github.com/ajeetdsouza/zoxide): Quick navigation around your file system. Phenomenal for jumping between projects without remembering the exact path.
 
 ## Vim
