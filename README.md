@@ -118,6 +118,7 @@ The best books are the ones which radically change your views. These are the mos
 Similar to books, I'm only listing the most impactful movies, the ones that shaped my view of the world.
 
 - [Breaking Bad (TV Series)](https://www.imdb.com/title/tt0903747/)
+- [Chernobyl (TV Series)](https://www.imdb.com/title/tt7366338/)
 - [Mr. Robot (TV Series)](https://www.imdb.com/title/tt4158110/)
 
 ---
