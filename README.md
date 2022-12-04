@@ -4,7 +4,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 
 ## Terminal Tools
 
-- [alacritty](https://github.com/alacritty/alacritty): I use Alacritty as my terminal emulator across macOS and Linux. It's configured through a yaml file, which makes it very easy to share configs between computers (*scowls at iTerm*).
+- [alacritty](https://github.com/alacritty/alacritty): I use Alacritty as my terminal emulator across macOS and Linux. It's configured through a yaml file, which makes it very easy to share configs between computers (_scowls at iTerm_).
 - [bottom](https://github.com/ClementTsang/bottom): Quite possibly the greatest system monitor ever written.
 - [delta](https://github.com/dandavison/delta): The fanciest git diff viewer you'll ever find.
 - [dog](https://github.com/ogham/dog/): An alternative to `dig` that's so good, you'll want to use it.
@@ -12,6 +12,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [glow](https://github.com/charmbracelet/glow): A markdown renderer built for the terminal. This makes documentation much more comfortable to absorb.
 - [ncspot](https://github.com/hrkfdn/ncspot/): An ncurses-style Spotify client.
 - [nix](https://nixos.org/): A cross-platform package manager. All my devtools are installed and managed by Nix. It's phenomenally well designed.
+- [nushell](https://www.nushell.sh/): An incredibly powerful shell with structured data and an even stronger commitment to pipeline processing.
 - [rage](https://github.com/str4d/rage): A small and simple encryption tool that works on public keys.
 - [ripgrep](https://github.com/BurntSushi/ripgrep): A `grep`/`ag` replacement, and wicked fast, too.
 - [skim](https://github.com/lotabout/skim) or [fzf](https://github.com/junegunn/fzf): Fuzzy finders. Fantastic for finding files, searching notes, or sorting through massive troves of unstructured text.
