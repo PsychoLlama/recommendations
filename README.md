@@ -69,6 +69,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Bret Victor: Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
 - [Pat Helland: Immutability Changes Everything](https://vimeo.com/52831373)
 - [Philip Wadler: Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
+- [Rich Hickey: Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU)
 - [Rich Hickey: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
 - [Sandi Metz: Rules](https://www.youtube.com/watch?v=npOGOmkxuio)
 
