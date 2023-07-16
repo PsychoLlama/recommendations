@@ -121,19 +121,22 @@ The best books are the ones which radically change your views. These are the mos
 - [The Phoenix Project (Gene Kim)](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434)<br />
   A fiction book describing a dumpster fire of a software megaproject, how it got there, and how a team slowly turned it into a success. It gave me perspective and empathy for managers, along with ideas for improving my own work.
 
-## Movies/TV
-
-Similar to books, I'm only listing the most impactful movies, the ones that shaped my view of the world.
+## TV Shows
 
 - [Breaking Bad (TV Series)](https://www.imdb.com/title/tt0903747/)
 - [Chernobyl (TV Series)](https://www.imdb.com/title/tt7366338/)
 - [Mr. Robot (TV Series)](https://www.imdb.com/title/tt4158110/)
 
----
+## Movies
 
 - [Fight Club](https://www.imdb.com/title/tt0137523/)
+- [Memento](https://www.imdb.com/title/tt0209144/)
+- [Predestination](https://www.imdb.com/title/tt2397535/)
 - [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
+- [Tenet](https://www.imdb.com/title/tt6723592/)
+- [The Departed](https://www.imdb.com/title/tt0407887/)
 - [They Live](https://www.imdb.com/title/tt0096256/)
+- [Upgrade](https://www.imdb.com/title/tt6499752/)
 
 ---
 
