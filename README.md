@@ -110,16 +110,13 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 The best books are the ones which radically change your views. These are the most impactful works I've read.
 
-- [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)<br />
-  A dystopian novel describing in shocking detail how massive countries could censor, oppress, and indefinitely subdue citizens through technology and propaganda.
-- [Avogadro Corp (William Hertling)](http://avogadrocorp.com/)<br />
-  This novel pitches a precise and believable scenario of how an AI could run out of control. It's a startling difference from your typical Terminator narrative, and deeply unsettling.
-- [Divided by Infinity (Robert Wilson)](https://www.tor.com/2010/08/05/divided-by-infinity/)<br />
-  A short story that may briefly make you question your own reality.
-- [Permutation City (Greg Egan)](https://en.wikipedia.org/wiki/Permutation_City)<br />
-  This book helped me grapple with the meaning of life under nihilism and explores some fascinating aspects of transhumanism.
-- [The Phoenix Project (Gene Kim)](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434)<br />
-  A fiction book describing a dumpster fire of a software megaproject, how it got there, and how a team slowly turned it into a success. It gave me perspective and empathy for managers, along with ideas for improving my own work.
+- [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four): A dystopian novel describing in shocking detail how massive countries could censor, oppress, and indefinitely subdue citizens through technology and propaganda.
+- [Avogadro Corp (William Hertling)](http://avogadrocorp.com/): This novel pitches a precise and believable scenario of how an AI could run out of control. It's a startling difference from your typical Terminator narrative, and deeply unsettling.
+- [Divided by Infinity (Robert Wilson)](https://www.tor.com/2010/08/05/divided-by-infinity/): A short story that may briefly make you question your own reality.
+- [Permutation City (Greg Egan)](https://en.wikipedia.org/wiki/Permutation_City): This book helped me grapple with the meaning of life under nihilism and explores some fascinating aspects of transhumanism.
+- [Sapiens (Yuval Harari)](https://www.goodreads.com/book/show/23692271-sapiens): A history of humankind, from the agricultural revolution to the current day.
+- [The Code Book (Simon Singh)](https://www.goodreads.com/book/show/17994.The_Code_Book): Follows the practice of cryptography from ancient Egypt to beyond the present day.
+- [The Phoenix Project (Gene Kim)](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434): A fiction book describing a dumpster fire of a software megaproject, how it got there, and how a team slowly turned it into a success. It gave me perspective and empathy for managers, along with ideas for improving my own work.
 
 ## TV Shows
 
