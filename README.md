@@ -48,6 +48,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 ## Servers
 
+- [Nomad](https://www.nomadproject.io/): A modern replacement for Kubernetes, and easier to manage, too.
 - [OPNsense](https://opnsense.org/): Turns your computer into a cutting-edge router, including treasures like DDNS and ad blocking.
 - [Pi-Hole](https://pi-hole.net/): Use a Raspberry Pi as a network wide ad blocking DNS proxy (without committing to OPNsense).
 - [Syncthing](https://syncthing.net/): An peer-to-peer encrypted Dropbox alternative with support for most platforms.
