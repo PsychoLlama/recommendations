@@ -96,6 +96,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 - [Data Laced with History](http://archagon.net/blog/2018/03/24/data-laced-with-history/): Building CRDTs over causal trees.
 - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit): Optimizing Merkle trees using content probabilities.
+- [Wolfram's Physics Project](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/): How the universe would work if it were designed by a computer scientist.
 
 ## Podcasts
 
