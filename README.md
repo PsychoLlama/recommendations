@@ -123,9 +123,9 @@ The best books are the ones which radically change your views. These are the mos
 
 ## TV Shows
 
-- [Breaking Bad (TV Series)](https://www.imdb.com/title/tt0903747/)
-- [Chernobyl (TV Series)](https://www.imdb.com/title/tt7366338/)
-- [Mr. Robot (TV Series)](https://www.imdb.com/title/tt4158110/)
+- [Breaking Bad](https://www.imdb.com/title/tt0903747/)
+- [Chernobyl](https://www.imdb.com/title/tt7366338/)
+- [Mr. Robot](https://www.imdb.com/title/tt4158110/)
 
 ## Movies
 
