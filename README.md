@@ -111,10 +111,9 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 ## Books
 
-The best books are the ones which radically change your views. These are the most impactful works I've read.
-
 - [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four): A dystopian novel describing in shocking detail how massive countries could censor, oppress, and indefinitely subdue citizens through technology and propaganda.
 - [Avogadro Corp (William Hertling)](http://avogadrocorp.com/): This novel pitches a precise and believable scenario of how an AI could run out of control. It's a startling difference from your typical Terminator narrative, and deeply unsettling.
+- [Designing Data-Intensive Applications (Martin Kleppmann)](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications): A high-level tour of tools and approaches for system design.
 - [Divided by Infinity (Robert Wilson)](https://www.tor.com/2010/08/05/divided-by-infinity/): A short story that may briefly make you question your own reality.
 - [Permutation City (Greg Egan)](https://en.wikipedia.org/wiki/Permutation_City): This book helped me grapple with the meaning of life under nihilism and explores some fascinating aspects of transhumanism.
 - [Sapiens (Yuval Harari)](https://www.goodreads.com/book/show/23692271-sapiens): A history of humankind, from the agricultural revolution to the current day.
