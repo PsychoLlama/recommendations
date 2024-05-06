@@ -7,7 +7,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [alacritty](https://github.com/alacritty/alacritty): I use Alacritty as my terminal emulator across macOS and Linux. It's configured through a yaml file, which makes it very easy to share configs between computers (_scowls at iTerm_).
 - [bottom](https://github.com/ClementTsang/bottom): Quite possibly the greatest system monitor ever written.
 - [delta](https://github.com/dandavison/delta): The fanciest git diff viewer you'll ever find.
-- [dog](https://github.com/ogham/dog/): An alternative to `dig` that's so good, you'll want to use it.
+- [doggo](https://github.com/mr-karan/doggo/): An alternative to `dig` that's so good, you'll want to use it.
 - [fd](https://github.com/sharkdp/fd): A `find` replacement with a great command line interface. It's significantly faster and easier to use.
 - [glow](https://github.com/charmbracelet/glow): A markdown renderer built for the terminal. This makes documentation much more comfortable to absorb.
 - [ncspot](https://github.com/hrkfdn/ncspot/): An ncurses-style Spotify client.
