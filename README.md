@@ -25,9 +25,9 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [coc.nvim](https://github.com/neoclide/coc.nvim): This provides IDE-quality editor features right in vim. Powered by the [LSP architecture](https://microsoft.github.io/language-server-protocol/) (no startup penalty).
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim/): A very good markdown previewer with scroll sync and tons of rendering features.
 - [neovim](https://github.com/neovim/neovim/): IMO vim is getting left behind in favor of Neovim. They're leading the charge for new editor features.
-- [splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim): A convenient way of splitting things from one line into multiple statements (or reversing it).
-- [vim-surround](https://github.com/tpope/vim-surround): Manage delimiters like a pro.
+- [treesj](https://github.com/Wansmer/treesj): A convenient way of splitting things from one line into multiple statements (or reversing it).
 - [undotree](https://github.com/mbbill/undotree): I've never found vim's 2D edit history easy to navigate. This plugin provides a nicer graphical interface.
+- [vim-surround](https://github.com/tpope/vim-surround): Manage delimiters like a pro.
 
 ## Browser Extensions
 
