@@ -22,7 +22,6 @@ A loosely organized list of things I love and go out of my way to recommend.
 
 ## Vim
 
-- [coc.nvim](https://github.com/neoclide/coc.nvim): This provides IDE-quality editor features right in vim. Powered by the [LSP architecture](https://microsoft.github.io/language-server-protocol/) (no startup penalty).
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim/): A very good markdown previewer with scroll sync and tons of rendering features.
 - [neovim](https://github.com/neovim/neovim/): IMO vim is getting left behind in favor of Neovim. They're leading the charge for new editor features.
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim/): General purpose command palette. Extensible, but powerful out of the box.
