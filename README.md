@@ -4,7 +4,6 @@ A loosely organized list of things I love and go out of my way to recommend.
 
 ## Terminal Tools
 
-- [alacritty](https://github.com/alacritty/alacritty): I use Alacritty as my terminal emulator across macOS and Linux. It's configured through a yaml file, which makes it very easy to share configs between computers (_scowls at iTerm_).
 - [bottom](https://github.com/ClementTsang/bottom): Quite possibly the greatest system monitor ever written.
 - [delta](https://github.com/dandavison/delta): The fanciest git diff viewer you'll ever find.
 - [doggo](https://github.com/mr-karan/doggo/): An alternative to `dig` that's so good, you'll want to use it.
@@ -18,6 +17,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [skim](https://github.com/lotabout/skim) or [fzf](https://github.com/junegunn/fzf): Fuzzy finders. Fantastic for finding files, searching notes, or sorting through massive troves of unstructured text.
 - [tmux](https://github.com/tmux/tmux): You know what this is. I'm still going to recommend it.
 - [viu](https://github.com/atanunq/viu): Renders images in the terminal using colored ascii art. Especially handy when working over SSH.
+- [wezterm](https://wezfurlong.org/wezterm): An insanely powerful cross-platform terminal emulator configurable (and scriptable!) by config file.
 - [zoxide](https://github.com/ajeetdsouza/zoxide): Quick navigation around your file system. Phenomenal for jumping between projects without remembering the exact path.
 
 ## Vim
