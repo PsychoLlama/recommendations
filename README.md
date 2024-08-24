@@ -61,6 +61,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Learn X in Y Minutes](https://learnxinyminutes.com/): A set of comment annotated programming language references. Very useful for jumping into a new language, or remembering how to use an old one.
 - [Penpot](https://github.com/penpot/penpot): An open source Sketch/Figma competitor.
 - [Squoosh](https://squoosh.app/): An image compression tool right in your browser.
+- [TLS, Byte by Byte](https://bytebybyte.dev/): Walk through a TLS connection with every byte annotated and explained.
 
 ## Engineering Presentations
 
