@@ -9,12 +9,12 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [doggo](https://github.com/mr-karan/doggo/): An alternative to `dig` that's so good, you'll want to use it.
 - [fd](https://github.com/sharkdp/fd): A `find` replacement with a great command line interface. It's significantly faster and easier to use.
 - [glow](https://github.com/charmbracelet/glow): A markdown renderer built for the terminal. This makes documentation much more comfortable to absorb.
-- [ncspot](https://github.com/hrkfdn/ncspot/): An ncurses-style Spotify client.
 - [nix](https://nixos.org/): A cross-platform package manager. All my devtools are installed and managed by Nix. It's phenomenally well designed.
 - [nushell](https://www.nushell.sh/): An incredibly powerful shell with structured data and an even stronger commitment to pipeline processing.
 - [rage](https://github.com/str4d/rage): A small and simple encryption tool that works on public keys.
 - [ripgrep](https://github.com/BurntSushi/ripgrep): A `grep`/`ag` replacement, and wicked fast, too.
 - [skim](https://github.com/lotabout/skim) or [fzf](https://github.com/junegunn/fzf): Fuzzy finders. Fantastic for finding files, searching notes, or sorting through massive troves of unstructured text.
+- [spotify-player](https://github.com/aome510/spotify-player): An ncurses-style Spotify client.
 - [tmux](https://github.com/tmux/tmux): You know what this is. I'm still going to recommend it.
 - [viu](https://github.com/atanunq/viu): Renders images in the terminal using colored ascii art. Especially handy when working over SSH.
 - [wezterm](https://wezfurlong.org/wezterm): An insanely powerful cross-platform terminal emulator configurable (and scriptable!) by config file.
