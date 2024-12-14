@@ -22,6 +22,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 
 ## Vim
 
+- [conform.nvim](https://github.com/stevearc/conform.nvim/): General purpose formatter supporting everything you didn't know you had to have.
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim/): A very good markdown previewer with scroll sync and tons of rendering features.
 - [neovim](https://github.com/neovim/neovim/): IMO vim is getting left behind in favor of Neovim. They're leading the charge for new editor features.
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim/): General purpose command palette. Extensible, but powerful out of the box.
