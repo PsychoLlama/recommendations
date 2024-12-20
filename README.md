@@ -134,6 +134,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
 - [Tenet](https://www.imdb.com/title/tt6723592/)
 - [The Departed](https://www.imdb.com/title/tt0407887/)
+- [The Thing](https://www.imdb.com/title/tt0084787/)
 - [They Live](https://www.imdb.com/title/tt0096256/)
 - [Upgrade](https://www.imdb.com/title/tt6499752/)
 
