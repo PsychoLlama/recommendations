@@ -60,6 +60,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [AST Explorer](https://astexplorer.net/): Interactively explore and transform ASTs for various languages.
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/): If you're serious about vim, take some time to learn Vimscript. It's worth it.
 - [Learn X in Y Minutes](https://learnxinyminutes.com/): A set of comment annotated programming language references. Very useful for jumping into a new language, or remembering how to use an old one.
+- [Noogle](https://noogle.dev/): Search engine for the Nix language. Particularly useful for discovering `lib` functions.
 - [Penpot](https://github.com/penpot/penpot): An open source Sketch/Figma competitor.
 - [Squoosh](https://squoosh.app/): An image compression tool right in your browser.
 - [TLS, Byte by Byte](https://bytebybyte.dev/): Walk through a TLS connection with every byte annotated and explained.
