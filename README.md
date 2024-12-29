@@ -20,7 +20,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [wezterm](https://wezfurlong.org/wezterm): An insanely powerful cross-platform terminal emulator configurable (and scriptable!) by config file.
 - [zoxide](https://github.com/ajeetdsouza/zoxide): Quick navigation around your file system. Phenomenal for jumping between projects without remembering the exact path.
 
-## Vim
+## Neovim
 
 - [conform.nvim](https://github.com/stevearc/conform.nvim/): General purpose formatter supporting everything you didn't know you had to have.
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim/): A very good markdown previewer with scroll sync and tons of rendering features.
