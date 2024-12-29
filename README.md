@@ -30,6 +30,11 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [undotree](https://github.com/mbbill/undotree): I've never found vim's 2D edit history easy to navigate. This plugin provides a nicer graphical interface.
 - [vim-surround](https://github.com/tpope/vim-surround): Manage delimiters like a pro.
 
+## Web Development
+
+- [Gatsby](https://www.gatsbyjs.com/): React framework that adds invaluable compile-time tooling without complete lock-in.
+- [Vanilla Extract](https://vanilla-extract.style/): Use TypeScript to define your CSS and compile it all away. Add LSP features for your style and you won't go back.
+
 ## Browser Extensions
 
 - [Bitwarden](https://bitwarden.com/): Not technically just a browser extension. This password manager is open source, self-hostable, and has official clients for about every platform, including command line.
