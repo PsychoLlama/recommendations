@@ -102,6 +102,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Data Laced with History](http://archagon.net/blog/2018/03/24/data-laced-with-history/): Building CRDTs over causal trees.
 - [Lambda Calculus in TS](https://ayazhafiz.com/articles/21/typescript-type-system-lambda-calculus): Abusing the TypeScript type system to solve LC expressions at compile time.
 - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit): Optimizing Merkle trees using content probabilities.
+- [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/#fn-8-mark): Brief tour of color spaces and why they're all confusing.
 - [Visualizing Elliptic Curve Cryptography](https://curves.xargs.org/): A tour of the math behind EC25519.
 - [Wolfram's Physics Project](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/): How the universe would work if it were designed by a computer scientist.
 - [cpu.land](https://cpu.land/): Explores how CPUs, processes, and kernels actually function at a low level.
