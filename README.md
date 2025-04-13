@@ -120,6 +120,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 - [17776 (Jon Bois)](https://www.goodreads.com/book/show/38491254-17776): Leaves you with a sense of "what did I just read" while loving every minute.
 - [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four): A dystopian novel describing in shocking detail how massive countries could censor, oppress, and indefinitely subdue citizens through technology and propaganda.
+- [Anything You Want (Derek Sivers)](https://www.goodreads.com/book/show/11878168-anything-you-want): Short and to the point. It presents an unusual approach to running a business.
 - [Avogadro Corp (William Hertling)](http://avogadrocorp.com/): This novel pitches a precise and believable scenario of how an AI could run out of control. It's a startling difference from your typical Terminator narrative, and deeply unsettling.
 - [Designing Data-Intensive Applications (Martin Kleppmann)](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications): A high-level tour of tools and approaches for system design.
 - [Divided by Infinity (Robert Wilson)](https://www.tor.com/2010/08/05/divided-by-infinity/): A short story that may briefly make you question your own reality.
