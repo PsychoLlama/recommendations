@@ -46,6 +46,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 
 - [Fontsource](https://fontsource.org/): Import and manage fonts as normal npm packages. Carries advantages over doing it manually or loading from a CDN.
 - [Gatsby](https://www.gatsbyjs.com/): React framework that adds invaluable compile-time tooling without complete lock-in.
+- [React Icons](https://react-icons.github.io/react-icons/): Collection of popular icon libraries available as React SVG components.
 - [Vanilla Extract](https://vanilla-extract.style/): Use TypeScript to define your CSS and compile it all away. Add LSP features for your style and you won't go back.
 
 ## Browser Extensions
