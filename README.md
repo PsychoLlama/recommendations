@@ -24,6 +24,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 
 - [conform.nvim](https://github.com/stevearc/conform.nvim/): General purpose formatter supporting everything you didn't know you had to have.
 - [gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim): Share web permalinks to files and lines of code.
+- [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim/): Deep git integration with hunk and blame support. Better than fugitive for most tasks.
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim/): A very good markdown previewer with scroll sync and tons of rendering features.
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim/): General purpose command palette. Extensible, but powerful out of the box.
 - [treesj](https://github.com/Wansmer/treesj): A convenient way of splitting things from one line into multiple statements (or reversing it).
