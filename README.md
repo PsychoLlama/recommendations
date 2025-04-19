@@ -50,9 +50,8 @@ A loosely organized list of things I love and go out of my way to recommend.
 ## Browser Extensions
 
 - [Bitwarden](https://bitwarden.com/): Not technically just a browser extension. This password manager is open source, self-hostable, and has official clients for about every platform, including command line.
-- [Stylus](https://github.com/openstyles/stylus/): A tool for injecting custom CSS. I use this to hide annoying UI elements and apply custom dark themes.
 - [Vimium](https://github.com/philc/vimium): Vim keybindings for navigating the web. It works surprisingly well.
-- [uBlock Origin](https://ublockorigin.com/): Most of you already know this ad blocker. I didn't for a while. It's pretty great.
+- [uBlock Origin](https://ublockorigin.com/): Best-in-class ad blocker.
 
 ## Android Apps
 
