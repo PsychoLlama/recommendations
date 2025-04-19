@@ -104,7 +104,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 ## Services
 
-- [Cloudflare Pages](https://pages.cloudflare.com/): Immutable, static site hosting integrated with serverless functions.
+- [Cloudflare Workers](https://workers.cloudflare.com/): Edge serverless platform with first-class support for static hosting. Amazing for slapping prototypes together.
 - [Mend Renovate](https://www.mend.io/free-developer-tools/renovate/): A solid competitor to Dependabot that supports auto-merging PRs when tests pass.
 
 ## Papers
