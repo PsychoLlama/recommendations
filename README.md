@@ -116,19 +116,22 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Philosophize This!](https://www.philosophizethis.org/)<br />
   Before coming to this podcast, I had no real exposure to the field of philosophy. The podcast proved a fantastic gateway drug, and its broad overviews gave me enough context to navigate the reading landscape on my own.
 
-## Books
+## Fiction Books
 
 - [17776 (Jon Bois)](https://www.goodreads.com/book/show/38491254-17776): Leaves you with a sense of "what did I just read" while loving every minute.
 - [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four): A dystopian novel describing in shocking detail how massive countries could censor, oppress, and indefinitely subdue citizens through technology and propaganda.
-- [Anything You Want (Derek Sivers)](https://www.goodreads.com/book/show/11878168-anything-you-want): Short and to the point. It presents an unusual approach to running a business.
 - [Avogadro Corp (William Hertling)](http://avogadrocorp.com/): A play-by-play of an AI gone out of control. It's more "paperclip maximizer" than "Skynet" told from the perspective of the programmer.
 - [Blindsight (Peter Watts)](https://www.goodreads.com/book/show/48484.Blindsight): A first contact story twisting the idea of consciousness. Just as alien as [Solaris](https://www.goodreads.com/book/show/95558.Solaris) but more believable in an unsettling way.
-- [Designing Data-Intensive Applications (Martin Kleppmann)](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications): A high-level tour of tools and approaches for system design.
 - [Divided by Infinity (Robert Wilson)](https://www.tor.com/2010/08/05/divided-by-infinity/): A short story that may briefly make you question your own reality.
 - [Permutation City (Greg Egan)](https://en.wikipedia.org/wiki/Permutation_City): This book helped me grapple with the meaning of life under nihilism and explores some fascinating aspects of transhumanism.
+- [The Phoenix Project (Gene Kim)](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434): A fiction book describing a dumpster fire of a software megaproject, how it got there, and how a team slowly turned it into a success. It gave me perspective and empathy for managers, along with ideas for improving my own work.
+
+## Non-Fiction Books
+
+- [Anything You Want (Derek Sivers)](https://www.goodreads.com/book/show/11878168-anything-you-want): Short and to the point. It presents an unusual approach to running a business.
+- [Designing Data-Intensive Applications (Martin Kleppmann)](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications): A high-level tour of tools and approaches for system design.
 - [Sapiens (Yuval Harari)](https://www.goodreads.com/book/show/23692271-sapiens): A history of humankind, from the agricultural revolution to the current day.
 - [The Code Book (Simon Singh)](https://www.goodreads.com/book/show/17994.The_Code_Book): Follows the practice of cryptography from ancient Egypt to beyond the present day.
-- [The Phoenix Project (Gene Kim)](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434): A fiction book describing a dumpster fire of a software megaproject, how it got there, and how a team slowly turned it into a success. It gave me perspective and empathy for managers, along with ideas for improving my own work.
 
 ## TV Shows
 
