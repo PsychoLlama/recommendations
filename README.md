@@ -121,7 +121,8 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [17776 (Jon Bois)](https://www.goodreads.com/book/show/38491254-17776): Leaves you with a sense of "what did I just read" while loving every minute.
 - [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four): A dystopian novel describing in shocking detail how massive countries could censor, oppress, and indefinitely subdue citizens through technology and propaganda.
 - [Anything You Want (Derek Sivers)](https://www.goodreads.com/book/show/11878168-anything-you-want): Short and to the point. It presents an unusual approach to running a business.
-- [Avogadro Corp (William Hertling)](http://avogadrocorp.com/): This novel pitches a precise and believable scenario of how an AI could run out of control. It's a startling difference from your typical Terminator narrative, and deeply unsettling.
+- [Avogadro Corp (William Hertling)](http://avogadrocorp.com/): A play-by-play of an AI gone out of control. It's more "paperclip maximizer" than "Skynet" told from the perspective of the programmer.
+- [Blindsight (Peter Watts)](https://www.goodreads.com/book/show/48484.Blindsight): A first contact story twisting the idea of consciousness. Just as alien as [Solaris](https://www.goodreads.com/book/show/95558.Solaris) but more believable in an unsettling way.
 - [Designing Data-Intensive Applications (Martin Kleppmann)](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications): A high-level tour of tools and approaches for system design.
 - [Divided by Infinity (Robert Wilson)](https://www.tor.com/2010/08/05/divided-by-infinity/): A short story that may briefly make you question your own reality.
 - [Permutation City (Greg Egan)](https://en.wikipedia.org/wiki/Permutation_City): This book helped me grapple with the meaning of life under nihilism and explores some fascinating aspects of transhumanism.
