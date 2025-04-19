@@ -44,6 +44,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 
 ## Web Development
 
+- [Fontsource](https://fontsource.org/): Import and manage fonts as normal npm packages. Carries advantages over doing it manually or loading from a CDN.
 - [Gatsby](https://www.gatsbyjs.com/): React framework that adds invaluable compile-time tooling without complete lock-in.
 - [Vanilla Extract](https://vanilla-extract.style/): Use TypeScript to define your CSS and compile it all away. Add LSP features for your style and you won't go back.
 
