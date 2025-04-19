@@ -5,9 +5,10 @@ A loosely organized list of things I love and go out of my way to recommend.
 ## Nix
 
 - [nix](https://nixos.org/): Cross-platform package manager with one of the largest and up-to-date registries in the world. By design, it supports project-local development environments with pinned dependencies.
-- [nixos](https://nixos.org/): A declarative Linux distro built on Nix. It's like Docker on steriods. Instead of pinning development shells, pin everything from your linux kernel to your terminal emulator. Bricked your boot process? Just roll back to the last working version.
+- [nixos](https://nixos.org/): Declarative Linux distro built on Nix. It's like Docker on steriods. Instead of pinning development shells, pin everything from your linux kernel to your terminal emulator. Bricked your boot process? Just roll back to the last working version.
 - [home-manager](https://github.com/nix-community/home-manager): User configuration layer built on the NixOS module system. Makes your configs portable and identical across Linux distros, macOS, and WSL.
 - [nix-darwin](https://github.com/nix-darwin/nix-darwin): Manages the macOS host as though it's a NixOS system. (You'd still use Home Manager for everything cross-platform.)
+- [colmena](https://github.com/zhaofengli/colmena): Remote deployment tool built for NixOS. Ideal for managing pet servers such as home labs.
 - [nix-direnv](https://github.com/nix-community/nix-direnv): Integrates with `direnv` to automatically load development environments when you `cd` into a project.
 - [noogle](https://noogle.dev/): Search engine for the Nix language. Particularly useful for discovering `lib` functions.
 
