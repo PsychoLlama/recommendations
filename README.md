@@ -138,6 +138,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 ## Movies
 
 - [Fight Club](https://www.imdb.com/title/tt0137523/)
+- [Kung Fury](https://www.imdb.com/title/tt3472226/)
 - [Memento](https://www.imdb.com/title/tt0209144/)
 - [Predestination](https://www.imdb.com/title/tt2397535/)
 - [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
