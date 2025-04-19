@@ -118,20 +118,20 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 ## Fiction Books
 
-- [17776 (Jon Bois)](https://www.goodreads.com/book/show/38491254-17776): Leaves you with a sense of "what did I just read" while loving every minute.
-- [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four): A dystopian novel describing in shocking detail how massive countries could censor, oppress, and indefinitely subdue citizens through technology and propaganda.
-- [Avogadro Corp (William Hertling)](http://avogadrocorp.com/): A play-by-play of an AI gone out of control. It's more "paperclip maximizer" than "Skynet" told from the perspective of the programmer.
-- [Blindsight (Peter Watts)](https://www.goodreads.com/book/show/48484.Blindsight): A first contact story twisting the idea of consciousness. Just as alien as [Solaris](https://www.goodreads.com/book/show/95558.Solaris) but more believable in an unsettling way.
-- [Divided by Infinity (Robert Wilson)](https://www.tor.com/2010/08/05/divided-by-infinity/): A short story that may briefly make you question your own reality.
-- [Permutation City (Greg Egan)](https://en.wikipedia.org/wiki/Permutation_City): This book helped me grapple with the meaning of life under nihilism and explores some fascinating aspects of transhumanism.
-- [The Phoenix Project (Gene Kim)](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434): A fiction book describing a dumpster fire of a software megaproject, how it got there, and how a team slowly turned it into a success. It gave me perspective and empathy for managers, along with ideas for improving my own work.
+- [17776 (Jon Bois)](https://www.goodreads.com/book/show/38491254-17776): Existentialist piece on sentient space probes watching immortal humans play absurdly evolved forms of football.
+- [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four): Classic dystopian novel describing sustainable totalitarianism. It slides to non-fiction with every passing day.
+- [Avogadro Corp (William Hertling)](http://avogadrocorp.com/): Play-by-play of an AI gone out of control. It's more "paperclip maximizer" than "Skynet" told from the perspective of the programmer.
+- [Blindsight (Peter Watts)](https://www.goodreads.com/book/show/48484.Blindsight): First contact story twisting the idea of consciousness. Just as alien as [Solaris](https://www.goodreads.com/book/show/95558.Solaris) but more believable in an unsettling way.
+- [Divided by Infinity (Robert Wilson)](https://www.tor.com/2010/08/05/divided-by-infinity/): Mind-bending short story mixing the Mandela Effect with Quantum Immortality. Read it before it becomes... unlikely...
+- [Permutation City (Greg Egan)](https://en.wikipedia.org/wiki/Permutation_City): Turned me into a Greg Egan zealot. Explores existentialism, solipsism, and the nature of consciousness while stomping on your brain in the process.
+- [The Phoenix Project (Gene Kim)](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434): Author of the DevOps Handbook describes a fictionalized failing software megaproject, how it got there, and how a team slowly turned it into a success.
 
 ## Non-Fiction Books
 
-- [Anything You Want (Derek Sivers)](https://www.goodreads.com/book/show/11878168-anything-you-want): Short and to the point. It presents an unusual approach to running a business.
+- [Anything You Want (Derek Sivers)](https://www.goodreads.com/book/show/11878168-anything-you-want): Short and to the point. Presents an unusual approach to running a business.
 - [Designing Data-Intensive Applications (Martin Kleppmann)](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications): A high-level tour of tools and approaches for system design.
-- [Sapiens (Yuval Harari)](https://www.goodreads.com/book/show/23692271-sapiens): A history of humankind, from the agricultural revolution to the current day.
-- [The Code Book (Simon Singh)](https://www.goodreads.com/book/show/17994.The_Code_Book): Follows the practice of cryptography from ancient Egypt to beyond the present day.
+- [Sapiens (Yuval Harari)](https://www.goodreads.com/book/show/23692271-sapiens): History of humankind, from the agricultural revolution to the current day.
+- [The Code Book (Simon Singh)](https://www.goodreads.com/book/show/17994.The_Code_Book): Follows the practice and evolution of cryptography from ancient Egypt all the way to the speculative future.
 
 ## TV Shows
 
