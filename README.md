@@ -2,6 +2,15 @@
 
 A loosely organized list of things I love and go out of my way to recommend.
 
+## Nix
+
+- [nix](https://nixos.org/): Cross-platform package manager with one of the largest and up-to-date registries in the world. By design, it supports project-local development environments with pinned dependencies.
+- [nixos](https://nixos.org/): A declarative Linux distro built on Nix. It's like Docker on steriods. Instead of pinning development shells, pin everything from your linux kernel to your terminal emulator. Bricked your boot process? Just roll back to the last working version.
+- [home-manager](https://github.com/nix-community/home-manager): User configuration layer built on the NixOS module system. Makes your configs portable and identical across Linux distros, macOS, and WSL.
+- [nix-darwin](https://github.com/nix-darwin/nix-darwin): Manages the macOS host as though it's a NixOS system. (You'd still use Home Manager for everything cross-platform.)
+- [nix-direnv](https://github.com/nix-community/nix-direnv): Integrates with `direnv` to automatically load development environments when you `cd` into a project.
+- [noogle](https://noogle.dev/): Search engine for the Nix language. Particularly useful for discovering `lib` functions.
+
 ## Terminal Tools
 
 - [bottom](https://github.com/ClementTsang/bottom): Quite possibly the greatest system monitor ever written.
@@ -9,7 +18,6 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [doggo](https://github.com/mr-karan/doggo/): An alternative to `dig` that's so good, you'll want to use it.
 - [fd](https://github.com/sharkdp/fd): A `find` replacement with a great command line interface. It's significantly faster and easier to use.
 - [glow](https://github.com/charmbracelet/glow): A markdown renderer built for the terminal. This makes documentation much more comfortable to absorb.
-- [nix](https://nixos.org/): A cross-platform package manager. All my devtools are installed and managed by Nix. It's phenomenally well designed.
 - [nushell](https://www.nushell.sh/): An incredibly powerful shell with structured data and an even stronger commitment to pipeline processing.
 - [rage](https://github.com/str4d/rage): A small and simple encryption tool that works on public keys.
 - [ripgrep](https://github.com/BurntSushi/ripgrep): A `grep`/`ag` replacement, and wicked fast, too.
@@ -66,7 +74,6 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [AST Explorer](https://astexplorer.net/): Interactively explore and transform ASTs for various languages.
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/): If you're serious about vim, take some time to learn Vimscript. It's worth it.
 - [Learn X in Y Minutes](https://learnxinyminutes.com/): A set of comment annotated programming language references. Very useful for jumping into a new language, or remembering how to use an old one.
-- [Noogle](https://noogle.dev/): Search engine for the Nix language. Particularly useful for discovering `lib` functions.
 - [Penpot](https://github.com/penpot/penpot): An open source Sketch/Figma competitor.
 - [Squoosh](https://squoosh.app/): An image compression tool right in your browser.
 - [TLS, Byte by Byte](https://bytebybyte.dev/): Walk through a TLS connection with every byte annotated and explained.
