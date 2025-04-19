@@ -89,6 +89,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 - [Bret Victor: Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
 - [Jack Rusher: Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
+- [Martin Kleppmann: Turning the Database Inside Out](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 - [Pat Helland: Immutability Changes Everything](https://vimeo.com/52831373)
 - [Philip Wadler: Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
 - [Rich Hickey: Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU)
