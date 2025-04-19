@@ -23,12 +23,11 @@ A loosely organized list of things I love and go out of my way to recommend.
 ## Neovim
 
 - [conform.nvim](https://github.com/stevearc/conform.nvim/): General purpose formatter supporting everything you didn't know you had to have.
+- [gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim): Share web permalinks to files and lines of code.
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim/): A very good markdown previewer with scroll sync and tons of rendering features.
-- [neovim](https://github.com/neovim/neovim/): IMO vim is getting left behind in favor of Neovim. They're leading the charge for new editor features.
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim/): General purpose command palette. Extensible, but powerful out of the box.
 - [treesj](https://github.com/Wansmer/treesj): A convenient way of splitting things from one line into multiple statements (or reversing it).
 - [undotree](https://github.com/mbbill/undotree): I've never found vim's 2D edit history easy to navigate. This plugin provides a nicer graphical interface.
-- [vim-surround](https://github.com/tpope/vim-surround): Manage delimiters like a pro.
 
 ## Web Development
 
