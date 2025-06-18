@@ -139,6 +139,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Blindsight (Peter Watts)](https://www.goodreads.com/book/show/48484.Blindsight): First contact story twisting the idea of consciousness. Just as alien as [Solaris](https://www.goodreads.com/book/show/95558.Solaris) but more believable in an unsettling way.
 - [Diaspora (Greg Egan)](https://www.goodreads.com/book/show/156785.Diaspora): The most densely packed sci-fi book in existence. Egan often explores the nature of reality and consciousness. This book dials it to 11 and just keeps going.
 - [Divided by Infinity (Robert Wilson)](https://www.tor.com/2010/08/05/divided-by-infinity/): Mind-bending short story mixing the Mandela Effect with Quantum Immortality. Read it before it becomes... unlikely...
+- [His Master's Voice (Stanislaw Lem)](https://www.goodreads.com/book/show/28763.His_Master_s_Voice): Philosophical themes as a military research group tries to decode an alien message proving too much for humanity to understand.
 - [Permutation City (Greg Egan)](https://en.wikipedia.org/wiki/Permutation_City): Turned me into a Greg Egan zealot. Explores existentialism, solipsism, and the nature of consciousness while stomping on your brain in the process.
 - [The Phoenix Project (Gene Kim)](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434): Author of the DevOps Handbook describes a fictionalized failing software megaproject, how it got there, and how a team slowly turned it into a success.
 
