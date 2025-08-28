@@ -124,6 +124,8 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 
 ## Podcasts
 
+- [Acquired](https://www.acquired.fm/)<br />
+  Several-hour episodes deep diving a company's history, from its initial idea to the present day.
 - [Darknet Diaries](https://darknetdiaries.com/)<br />
   This guy interviews hackers, both ethical and unethical. The format is pretty structured and the stories are always captivating.
 - [Hardcore History (Dan Carlin)](https://www.dancarlin.com/hardcore-history-series/)<br />
