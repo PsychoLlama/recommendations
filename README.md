@@ -32,7 +32,6 @@ A loosely organized list of things I love and go out of my way to recommend.
 ## Neovim
 
 - [alternaut.nvim](https://github.com/PsychoLlama/alternaut.nvim) (author): Jump between source and alternate files (tests, styles, templates, headers).
-- [avante.nvim](https://github.com/yetone/avante.nvim): LLM integration for code generation and refactoring.
 - [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim): Chat interface supporting multiple LLM backends and tool use.
 - [conform.nvim](https://github.com/stevearc/conform.nvim/): General purpose formatter supporting everything you didn't know you had to have.
 - [gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim): Share web permalinks to files and lines of code.
