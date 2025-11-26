@@ -113,6 +113,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 ## Blog Posts
 
 - [A Run of CRDT Posts](https://jhellerstein.github.io/blog/crdt-intro/): Common CRDT pitfalls and techniques to address them.
+- [Beating the Averages](https://paulgraham.com/avg.html): Higher cost languages can yield higher business returns.
 - [Data Laced with History](http://archagon.net/blog/2018/03/24/data-laced-with-history/): Building CRDTs over causal trees.
 - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems): Different database architectures.
 - [Lambda Calculus in TS](https://ayazhafiz.com/articles/21/typescript-type-system-lambda-calculus): Abusing the TypeScript type system to solve LC expressions at compile time.
