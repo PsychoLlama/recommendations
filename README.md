@@ -174,6 +174,16 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [They Live](https://www.imdb.com/title/tt0096256/)
 - [Upgrade](https://www.imdb.com/title/tt6499752/)
 
+## YouTube Channels
+
+- [ChubbyEmu](https://www.youtube.com/@chubbyemu)
+- [Lemmino](https://www.youtube.com/@LEMMiNO)
+- [Papers We Love](https://www.youtube.com/@PapersWeLove)
+- [Real Engineering](https://www.youtube.com/@RealEngineering)
+- [Stuff Made Here](https://www.youtube.com/@StuffMadeHere)
+- [Suckerpinch](https://www.youtube.com/@tom7)
+- [Wendover Productions](https://www.youtube.com/@Wendoverproductions)
+
 ---
 
 If you like this idea, make your own recommendations repo and add the `my-recommendations` topic.
