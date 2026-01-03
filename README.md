@@ -116,6 +116,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Beating the Averages](https://paulgraham.com/avg.html): Higher cost languages can yield higher business returns.
 - [Data Laced with History](http://archagon.net/blog/2018/03/24/data-laced-with-history/): Building CRDTs over causal trees.
 - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems): Different database architectures.
+- [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency): Interactively visualizes how HDDs and SSDs work under the hood.
 - [Lambda Calculus in TS](https://ayazhafiz.com/articles/21/typescript-type-system-lambda-calculus): Abusing the TypeScript type system to solve LC expressions at compile time.
 - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit): Optimizing Merkle trees using content probabilities.
 - [Okay, Color Spaces](https://ericportis.com/posts/2024/okay-color-spaces/#fn-8-mark): Brief tour of color spaces and why they're all confusing.
