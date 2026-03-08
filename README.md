@@ -14,6 +14,8 @@ A loosely organized list of things I love and go out of my way to recommend.
 
 ## Terminal Tools
 
+<!-- keep-sorted start -->
+
 - [bottom](https://github.com/ClementTsang/bottom): Quite possibly the greatest system monitor ever written.
 - [delta](https://github.com/dandavison/delta): The fanciest git diff viewer you'll ever find.
 - [doggo](https://github.com/mr-karan/doggo/): An alternative to `dig` that's so good, you'll want to use it.
@@ -29,7 +31,11 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [wezterm](https://wezfurlong.org/wezterm): An insanely powerful cross-platform terminal emulator configurable (and scriptable!) by config file.
 - [zoxide](https://github.com/ajeetdsouza/zoxide): Quick navigation around your file system. Phenomenal for jumping between projects without remembering the exact path.
 
+<!-- keep-sorted end -->
+
 ## Neovim
+
+<!-- keep-sorted start -->
 
 - [alternaut.nvim](https://github.com/PsychoLlama/alternaut.nvim) (author): Jump between source and alternate files (tests, styles, templates, headers).
 - [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim): Chat interface supporting multiple LLM backends and tool use.
@@ -44,36 +50,56 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [treesj](https://github.com/Wansmer/treesj): A convenient way of splitting things from one line into multiple statements (or reversing it).
 - [undotree](https://github.com/mbbill/undotree): I've never found vim's 2D edit history easy to navigate. This plugin provides a nicer graphical interface.
 
+<!-- keep-sorted end -->
+
 ## Web Development
+
+<!-- keep-sorted start -->
 
 - [Fontsource](https://fontsource.org/): Import and manage fonts as normal npm packages. Carries advantages over doing it manually or loading from a CDN.
 - [Gatsby](https://www.gatsbyjs.com/): React framework that adds invaluable compile-time tooling without complete lock-in.
 - [React Icons](https://react-icons.github.io/react-icons/): Collection of popular icon libraries available as React SVG components.
 - [Vanilla Extract](https://vanilla-extract.style/): Use TypeScript to define your CSS and compile it all away. Add LSP features for your style and you won't go back.
 
+<!-- keep-sorted end -->
+
 ## Browser Extensions
+
+<!-- keep-sorted start -->
 
 - [Bitwarden](https://bitwarden.com/): Not technically just a browser extension. This password manager is open source, self-hostable, and has official clients for about every platform, including command line.
 - [Vimium](https://github.com/philc/vimium): Vim keybindings for navigating the web. It works surprisingly well.
 - [uBlock Origin](https://ublockorigin.com/): Best-in-class ad blocker.
 
+<!-- keep-sorted end -->
+
 ## Android Apps
 
 All references are open source and available on [F-Droid](https://f-droid.org/).
+
+<!-- keep-sorted start -->
 
 - [Aegis](https://getaegis.app/): Hands-down the best 2FA app of the 12 realms.
 - [AntennaPod](https://antennapod.org/): A beautiful and feature-filled podcast client.
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe): YouTube client with download capabilities and a snazzy ad-free interface. And it supports PeerTube!
 - [Olauncher](https://github.com/tanujnotes/Olauncher): A minimal launcher with heavy emphasis on search.
 
+<!-- keep-sorted end -->
+
 ## Servers
+
+<!-- keep-sorted start -->
 
 - [Headscale](https://headscale.net/): Open-source and self-hostable implementation of the Tailscale server.
 - [OPNsense](https://opnsense.org/): Turns your computer into a cutting-edge router, including treasures like DDNS and ad blocking.
 - [Pi-Hole](https://pi-hole.net/): Use a Raspberry Pi as a network wide ad blocking DNS proxy (without committing to OPNsense).
 - [Syncthing](https://syncthing.net/): An peer-to-peer encrypted Dropbox alternative with support for most platforms.
 
+<!-- keep-sorted end -->
+
 ## Websites
+
+<!-- keep-sorted start -->
 
 - [AST Explorer](https://astexplorer.net/): Interactively explore and transform ASTs for various languages.
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/): If you're serious about vim, take some time to learn Vimscript. It's worth it.
@@ -82,7 +108,11 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Squoosh](https://squoosh.app/): An image compression tool right in your browser.
 - [TLS, Byte by Byte](https://bytebybyte.dev/): Walk through a TLS connection with every byte annotated and explained.
 
+<!-- keep-sorted end -->
+
 ## Engineering Presentations
+
+<!-- keep-sorted start -->
 
 - [Bret Victor: Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
 - [Jack Rusher: Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
@@ -93,24 +123,40 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Rich Hickey: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
 - [Sandi Metz: Rules](https://www.youtube.com/watch?v=npOGOmkxuio)
 
+<!-- keep-sorted end -->
+
 ## Standards
+
+<!-- keep-sorted start -->
 
 - [ActivityPub](https://www.w3.org/TR/activitypub/): An open and interoperable protocol for adding social features in your app.
 - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/): A sensible format for organizing and maintaining changelogs.
 - [Markdown Architectural Decision Records](https://adr.github.io/madr/): Lightweight methods for organizing and collaborating on architecture decisions.
 
+<!-- keep-sorted end -->
+
 ## Services
+
+<!-- keep-sorted start -->
 
 - [Cloudflare Workers](https://workers.cloudflare.com/): Edge serverless platform with first-class support for static hosting. Amazing for slapping prototypes together.
 - [Mend Renovate](https://www.mend.io/free-developer-tools/renovate/): A solid competitor to Dependabot that supports auto-merging PRs when tests pass.
 
+<!-- keep-sorted end -->
+
 ## Papers
+
+<!-- keep-sorted start -->
 
 - [Dining Cryptographers Problem](http://www.cs.utoronto.ca/~sgorbunov/publications/diningCrypto.pdf): A thought experiment describing anonymous communication.
 - [Kademlia](http://www.scs.stanford.edu/~dm/home/papers/kpos.pdf): A clever routing algorithm for volatile P2P networks traversable in `O(log n)` time.
 - [Paxos Made Simple](http://lamport.azurewebsites.net/pubs/paxos-simple.pdf): A true classic. This paper describes distributed consensus with attractive CAP tradeoffs.
 
+<!-- keep-sorted end -->
+
 ## Blog Posts
+
+<!-- keep-sorted start -->
 
 - [A Run of CRDT Posts](https://jhellerstein.github.io/blog/crdt-intro/): Common CRDT pitfalls and techniques to address them.
 - [Beating the Averages](https://paulgraham.com/avg.html): Higher cost languages can yield higher business returns.
@@ -124,7 +170,11 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Wolfram's Physics Project](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/): How the universe would work if it were designed by a computer scientist.
 - [cpu.land](https://cpu.land/): Explores how CPUs, processes, and kernels actually function at a low level.
 
+<!-- keep-sorted end -->
+
 ## Podcasts
+
+<!-- keep-sorted start -->
 
 - [Acquired](https://www.acquired.fm/)<br />
   Several-hour episodes deep diving a company's history, from its initial idea to the present day.
@@ -135,7 +185,11 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Philosophize This!](https://www.philosophizethis.org/)<br />
   Before coming to this podcast, I had no real exposure to the field of philosophy. The podcast proved a fantastic gateway drug, and its broad overviews gave me enough context to navigate the reading landscape on my own.
 
+<!-- keep-sorted end -->
+
 ## Fiction Books
+
+<!-- keep-sorted start -->
 
 - [17776 (Jon Bois)](https://www.goodreads.com/book/show/38491254-17776): Existentialist piece on sentient space probes watching immortal humans play absurdly evolved forms of football.
 - [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four): Classic dystopian novel describing sustainable totalitarianism. It slides to non-fiction with every passing day.
@@ -150,20 +204,32 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Permutation City (Greg Egan)](https://en.wikipedia.org/wiki/Permutation_City): Turned me into a Greg Egan zealot. Explores existentialism, solipsism, and the nature of consciousness while stomping on your brain in the process.
 - [The Phoenix Project (Gene Kim)](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434): Author of the DevOps Handbook describes a fictionalized failing software megaproject, how it got there, and how a team slowly turned it into a success.
 
+<!-- keep-sorted end -->
+
 ## Non-Fiction Books
+
+<!-- keep-sorted start -->
 
 - [Anything You Want (Derek Sivers)](https://www.goodreads.com/book/show/11878168-anything-you-want): Short and to the point. Presents an unusual approach to running a business.
 - [Designing Data-Intensive Applications (Martin Kleppmann)](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications): A high-level tour of tools and approaches for system design.
 - [Sapiens (Yuval Harari)](https://www.goodreads.com/book/show/23692271-sapiens): History of humankind, from the agricultural revolution to the current day.
 - [The Code Book (Simon Singh)](https://www.goodreads.com/book/show/17994.The_Code_Book): Follows the practice and evolution of cryptography from ancient Egypt all the way to the speculative future.
 
+<!-- keep-sorted end -->
+
 ## TV Shows
+
+<!-- keep-sorted start -->
 
 - [Breaking Bad](https://www.imdb.com/title/tt0903747/)
 - [Chernobyl](https://www.imdb.com/title/tt7366338/)
 - [Mr. Robot](https://www.imdb.com/title/tt4158110/)
 
+<!-- keep-sorted end -->
+
 ## Movies
+
+<!-- keep-sorted start -->
 
 - [Fight Club](https://www.imdb.com/title/tt0137523/)
 - [Kung Fury](https://www.imdb.com/title/tt3472226/)
@@ -175,7 +241,11 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [They Live](https://www.imdb.com/title/tt0096256/)
 - [Upgrade](https://www.imdb.com/title/tt6499752/)
 
+<!-- keep-sorted end -->
+
 ## YouTube Channels
+
+<!-- keep-sorted start -->
 
 - [ChubbyEmu](https://www.youtube.com/@chubbyemu)
 - [Lemmino](https://www.youtube.com/@LEMMiNO)
@@ -184,6 +254,8 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Stuff Made Here](https://www.youtube.com/@StuffMadeHere)
 - [Suckerpinch](https://www.youtube.com/@tom7)
 - [Wendover Productions](https://www.youtube.com/@Wendoverproductions)
+
+<!-- keep-sorted end -->
 
 ---
 

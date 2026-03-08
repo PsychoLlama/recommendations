@@ -1,4 +1,10 @@
+[formatter.keep-sorted]
+command = "keep-sorted"
+includes = ["*.md", "*.yml"]
+priority = 0
+
 [formatter.prettier]
 command = "prettier"
 options = ["--write"]
 includes = ["*.md", "*.yml"]
+priority = 1

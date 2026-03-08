@@ -26,9 +26,12 @@
         system: pkgs:
         pkgs.mkShell {
           packages = [
+            # keep-sorted start
+            pkgs.keep-sorted
             pkgs.prek
             pkgs.prettier
             pkgs.treefmt
+            # keep-sorted end
           ];
         }
       );
