@@ -1,0 +1,11 @@
+#!/usr/bin/env -S nu --stdin
+export def main [] {
+  let hooks_dir = [$env.PWD ".git" "hooks"] | path join
+
+  # Remove stale hooks and forcefully regenerate them.
+  rm --recursive --force $hooks_dir
+  prek install --install-hooks err+out>|
+  print $"(ansi { attr: 'bold', fg: blue })env:(ansi reset) git hooks regenerated"
+
+  null
+}
