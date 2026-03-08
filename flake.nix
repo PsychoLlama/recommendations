@@ -26,8 +26,9 @@
         system: pkgs:
         pkgs.mkShell {
           packages = [
-            pkgs.treefmt
+            pkgs.prek
             pkgs.prettier
+            pkgs.treefmt
           ];
         }
       );

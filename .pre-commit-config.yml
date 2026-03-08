@@ -1,0 +1,10 @@
+repos:
+  - repo: local
+    hooks:
+      - id: treefmt
+        name: treefmt
+        language: system
+        entry: treefmt
+        pass_filenames: false
+        always_run: true
+        stages: [pre-push, manual]
