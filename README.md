@@ -140,6 +140,7 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [17776 (Jon Bois)](https://www.goodreads.com/book/show/38491254-17776): Existentialist piece on sentient space probes watching immortal humans play absurdly evolved forms of football.
 - [1984 (George Orwell)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four): Classic dystopian novel describing sustainable totalitarianism. It slides to non-fiction with every passing day.
 - [Accelerando (Charles Stross)](https://www.goodreads.com/book/show/17863.Accelerando): Absolutely bonkers story following humanity's transition through the technological Singularity. Prescient, dense with ideas, and brilliantly told.
+- [All You Zombies (Robert Heinlein)](https://www.goodreads.com/book/show/13030110-all-you-zombies): Time travel short story that keeps you guessing. It inspired the film [Predestination](https://www.imdb.com/title/tt2397535/), which was also quite good.
 - [Avogadro Corp (William Hertling)](http://avogadrocorp.com/): Play-by-play of an AI gone out of control. It's more "paperclip maximizer" than "Skynet" told from the perspective of the programmer.
 - [Blindsight (Peter Watts)](https://www.goodreads.com/book/show/48484.Blindsight): First contact story twisting the idea of consciousness. Just as alien as [Solaris](https://www.goodreads.com/book/show/95558.Solaris) but more believable in an unsettling way.
 - [Diaspora (Greg Egan)](https://www.goodreads.com/book/show/156785.Diaspora): The most densely packed sci-fi book in existence. Egan often explores the nature of reality and consciousness. This book dials it to 11 and just keeps going.
@@ -167,7 +168,6 @@ All references are open source and available on [F-Droid](https://f-droid.org/).
 - [Fight Club](https://www.imdb.com/title/tt0137523/)
 - [Kung Fury](https://www.imdb.com/title/tt3472226/)
 - [Memento](https://www.imdb.com/title/tt0209144/)
-- [Predestination](https://www.imdb.com/title/tt2397535/)
 - [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
 - [Tenet](https://www.imdb.com/title/tt6723592/)
 - [The Departed](https://www.imdb.com/title/tt0407887/)
