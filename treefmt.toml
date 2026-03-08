@@ -1,0 +1,5 @@
+[formatter.prettier]
+command = "prettier"
+options = ["--write"]
+includes = ["*.md", "*.yml"]
+excludes = ["LICENSE.md"]
