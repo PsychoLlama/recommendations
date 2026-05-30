@@ -1,0 +1,6 @@
+# File not recognized by default. Must be linked with git's `include.path`.
+# This happens via the flake dev shell.
+
+[hook "check-formatting"]
+  event = pre-push
+  command = treefmt --ci
