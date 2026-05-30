@@ -27,6 +27,7 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [skim](https://github.com/lotabout/skim) or [fzf](https://github.com/junegunn/fzf): Fuzzy finders. Fantastic for finding files, searching notes, or sorting through massive troves of unstructured text.
 - [spotify-player](https://github.com/aome510/spotify-player): An ncurses-style Spotify client.
 - [tmux](https://github.com/tmux/tmux): You know what this is. I'm still going to recommend it.
+- [treefmt](https://github.com/numtide/treefmt): Manage all your code formatters in one place.
 - [viu](https://github.com/atanunq/viu): Renders images in the terminal using colored ascii art. Especially handy when working over SSH.
 - [wezterm](https://wezfurlong.org/wezterm): An insanely powerful cross-platform terminal emulator configurable (and scriptable!) by config file.
 - [zoxide](https://github.com/ajeetdsouza/zoxide): Quick navigation around your file system. Phenomenal for jumping between projects without remembering the exact path.
