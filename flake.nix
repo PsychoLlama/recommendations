@@ -17,27 +17,34 @@
       inherit (nixpkgs) lib;
 
       eachSystem = lib.flip lib.mapAttrs (
-        lib.genAttrs (import systems) (system: nixpkgs.legacyPackages.${system})
+        lib.genAttrs (import systems) (system: import nixpkgs { inherit system; })
       );
     in
 
     {
-      devShell = eachSystem (
+      devShells = eachSystem (
         system: pkgs:
-        pkgs.mkShell {
-          packages = [
-            # keep-sorted start
-            pkgs.keep-sorted
-            pkgs.prettier
-            pkgs.treefmt
-            # keep-sorted end
-          ];
 
-          shellHook = ''
-            # Set up git hooks.
-            git config set extensions.worktreeConfig true
-            git config set --worktree include.path "$(git rev-parse --show-toplevel)/.gitconfig"
-          '';
+        rec {
+          ci = pkgs.mkShell {
+            packages = [
+              # keep-sorted start
+              pkgs.keep-sorted
+              pkgs.prettier
+              pkgs.treefmt
+              # keep-sorted end
+            ];
+          };
+
+          default = pkgs.mkShell {
+            inputsFrom = [ ci ];
+
+            shellHook = ''
+              # Set up git hooks.
+              git config set extensions.worktreeConfig true
+              git config set --worktree include.path "$(git rev-parse --show-toplevel)/.gitconfig"
+            '';
+          };
         }
       );
     };
