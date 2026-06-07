@@ -10,7 +10,10 @@ A loosely organized list of things I love and go out of my way to recommend.
 - [nix-darwin](https://github.com/nix-darwin/nix-darwin): Manages the macOS host as though it's a NixOS system. (You'd still use Home Manager for everything cross-platform.)
 - [colmena](https://github.com/zhaofengli/colmena): Remote deployment tool built for NixOS. Ideal for managing pet servers such as home labs.
 - [nix-direnv](https://github.com/nix-community/nix-direnv): Integrates with `direnv` to automatically load development environments when you `cd` into a project.
-- [noogle](https://noogle.dev/): Search engine for the Nix language. Particularly useful for discovering `lib` functions.
+- [noogle](https://noogle.dev/): Search engine for the Nix language. Invaluable for discovering `lib` functions.
+- [nix-output-monitor](https://github.com/maralorn/nix-output-monitor): What's nix building right now? Why? Nom answers, and does it with style.
+- [dix](https://github.com/manic-systems/dix): Unfortunately named, but tremendously useful. Diffs nix closures to see what changed.
+- [nh](https://github.com/nix-community/nh): Alternative CLI over NixOS/Home Manager/Nix Darwin. Try it. You won't go back.
 
 ## Terminal Tools
 
